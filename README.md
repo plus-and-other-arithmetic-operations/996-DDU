@@ -23,6 +23,7 @@ Some features:
 - Dynamic ABS & TC selection info
 - Multicolored RPM LED, working with a pit limiter
 - ABS & Wheel slip LED's, working with turnsignals
+- Dynamic tyre compound display
 
 ## Setup
 
