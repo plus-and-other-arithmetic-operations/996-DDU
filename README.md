@@ -3,6 +3,8 @@ Commission for Aftershock's OLD&NEW 996.
 
 ## DDU10 Breakdown (by zee)
 
+https://github.com/plus-and-other-arithmetic-operations/996-DDU/assets/88043761/cd5e22d2-5cdf-45f3-b32a-a0d101affe63
+
 Some stuff was scrapped, but most functions are mapped
 
 ![Untitled_Artwork](https://github.com/plus-and-other-arithmetic-operations/996-DDU/assets/88043761/0c015c03-0117-40ef-84d1-f0adbca74888)
